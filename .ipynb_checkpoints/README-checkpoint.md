@@ -1,6 +1,9 @@
 Our Team name is ZFN
+
 Femi Toyobo: OOT1@pitt.edu
+
 Nickhil Niranjan: NIN55@pitt.edu
+
 Zhuoran Wang: ZHW195@pitt.edu
 
 Femi's analysis used the air quality measured in certain neighbourhoods
