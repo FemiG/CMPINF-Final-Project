@@ -6,8 +6,9 @@ Nickhil Niranjan: NIN55@pitt.edu
 
 Zhuoran Wang: ZHW195@pitt.edu
 
-Femi's analysis used the air quality measured in certain neighbourhoods
-Nickhil's analysis used the number of firearms seized by law enforcement
+The purpose of this repository is to determine which neighborhood in Pittsburgh is the "best" in terms of safety. 
+Femi's analysis used the air quality measured in certain neighborhoods,
+Nickhil's analysis used the number of firearms seized by law enforcement, and
 Zhuoran's analysis used the number of arrests conducted by police
 
 Our group number is 7
